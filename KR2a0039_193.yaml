@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0039/zhsj/v1/juan/193
+seq: 193
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 清史稿卷一百九十三表三十三部院大臣年表八下表格尚無資料
+  hash: sha256:a6341017c916426c9183fc955d7c026bd37f28c4ae31be2ef9936bbf58c0cf16
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0039_ZHSJ_193-d193h1s1}
+metadata:
+  title: 清史稿
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0039.xml
+hash: sha256:a2e8da03417af93f082197f967a0abd0daa3f5a042483386ae6a2158a0886af4

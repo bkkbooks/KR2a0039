@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0039/zhsj/v1/juan/183
+seq: 183
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 清史稿卷一百八十三表二十三部院大臣年表三下雍僧顧班福孔鄂二孫陳正格魯第敏毓爾格國世十璞賽璽倕三十十年月月乙丁戊卯丑寅革差戊陳寅世倌彭維署新左署副左都都御御史史十十二一月月庚庚辰戌補孫嘉淦左都御史
+  hash: sha256:c229d460f37aeb86985aa97e84cf6d9d2385d7d8a497a62f4d63e9e6372396eb
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0039_ZHSJ_183-d183h1s1}
+metadata:
+  title: 清史稿
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0039.xml
+hash: sha256:7cee6aa9246df030c3f3eeecec13673b5b5b6d4e77628d7130bb7ca66e13e52f

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0039/zhsj/v1/juan/194
+seq: 194
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 清史稿卷一百九十四表三十四部院大臣年表九上表格尚無資料
+  hash: sha256:a8e89313b57a5ff765f052c59110e97fa7d97f89a3268f9bf37d1603e0daf0f9
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0039_ZHSJ_194-d194h1s1}
+metadata:
+  title: 清史稿
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0039.xml
+hash: sha256:e7e7aee1eb355d40097fce32d24f469a07aa58297abb56cfee498e12ce7262ed

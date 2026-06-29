@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0039/zhsj/v1/juan/163
+seq: 163
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 清史稿卷一百六十三表三皇子世表三奇授世祖第六子早卒無嗣隆禧富爾世祖第祜倫七子康隆禧子熙十三康熙十年封純九年襲親王十純親王八年薨尋薨無諡曰靖嗣永幹世祖第八子早卒無嗣
+  hash: sha256:f7cda7c719287b816c1cf5fa149350b9cc6d48899c5b137a2774a64b8db3979e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0039_ZHSJ_163-d163h1s1}
+metadata:
+  title: 清史稿
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0039.xml
+hash: sha256:4fe15ee33117ea3853c63a032a6af150e77dbe95fd6720048da9e96735e543cb

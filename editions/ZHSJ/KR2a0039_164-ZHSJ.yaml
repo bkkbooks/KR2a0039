@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0039/zhsj/v1/juan/164
+seq: 164
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 清史稿卷一百六十四表四皇子世表四承瑞聖祖子早薨承祐聖祖子早薨承慶聖祖子早薨賽音察渾聖祖子早薨長華聖祖子早薨長生聖祖子早薨萬黼聖祖子早薨允禶聖祖子早薨允聖祖子早薨允禨聖祖子早薨允禐聖祖子早薨
+  hash: sha256:b395225f51bb7ea2a8f13cc30aa94517f0ba785fd3d5caf2637198d9358685df
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0039_ZHSJ_164-d164h1s1}
+metadata:
+  title: 清史稿
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0039.xml
+hash: sha256:da509a46551332427e69098aa5819641d08497602b12d755f7bf48adf37daed8

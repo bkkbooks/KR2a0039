@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0039/zhsj/v1/juan/162
+seq: 162
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 清史稿卷一百六十二表二皇子世表二費揚果太祖第十六子太宗時獲罪正法子孫降為紅帶子
+  hash: sha256:a2408cdb41d49eea32f739c519a5bdb5c0ab21f775dba01dbb9deb7ad57cb91f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0039_ZHSJ_162-d162h1s1}
+metadata:
+  title: 清史稿
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0039.xml
+hash: sha256:d71adcf1921f633984c9d60775d3307abd2d1fb931239bcb9686cac1bca5b7c5

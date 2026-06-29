@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0039/zhsj/v1/juan/187
+seq: 187
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 清史稿卷一百八十七表二十七部院大臣年表五下表格無資料
+  hash: sha256:434b066e86e7b0ef7d5d551abb542e6beefe967cba15d6469f2f0b34656e5a80
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0039_ZHSJ_187-d187h1s1}
+metadata:
+  title: 清史稿
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0039.xml
+hash: sha256:02d433e408cb2b61cd2454bd0904787142255dd7cd4a5f2d66c48b683e010677

@@ -988,7 +988,6 @@ markers:
   - {type: punctuation, offset: 3402, content: ，, id: KR2a0039_ZHSJ_052-bkkpn389}
   - {type: 'tls:seg', offset: 3402, content: '', id: KR2a0039_ZHSJ_052-d52p6s127}
   - {type: line-break, offset: 3405, content: '', id: ZHSJ__dup26982, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
-  - {type: substitution, offset: 3410, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3290}}
   - {type: punctuation, offset: 3414, content: ，, id: KR2a0039_ZHSJ_052-bkkpn390}
   - {type: 'tls:seg', offset: 3414, content: '', id: KR2a0039_ZHSJ_052-d52p6s128}
   - {type: line-break, offset: 3422, content: '', id: ZHSJ__dup26983, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
@@ -2544,7 +2543,6 @@ markers:
   - {type: punctuation, offset: 8528, content: ．, id: KR2a0039_ZHSJ_052-bkkpn913}
   - {type: 'tls:seg', offset: 8528, content: '', id: KR2a0039_ZHSJ_052-d52p12s10}
   - {type: line-break, offset: 8528, content: '', id: ZHSJ__dup27230, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
-  - {type: substitution, offset: 8528, original: 迨, replacement: 逮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3085}}
   - {type: punctuation, offset: 8532, content: ，, id: KR2a0039_ZHSJ_052-bkkpn914}
   - {type: 'tls:seg', offset: 8532, content: '', id: KR2a0039_ZHSJ_052-d52p12s11}
   - {type: punctuation, offset: 8537, content: ，, id: KR2a0039_ZHSJ_052-bkkpn915}
@@ -3031,4 +3029,4 @@ markers:
   - {type: punctuation, offset: 10329, content: ．, id: KR2a0039_ZHSJ_052-bkkpn1125}
   - {type: xml-element, offset: 10329, content: '', id: KR2a0039_ZHSJ_052-bkkxmlele30, name: p, role: close}
   back: []
-hash: sha256:5b82d35af3af3eb595fa2a7b2e002fedfb9835fac3f764fce149b24607c23184
+hash: sha256:afbf5edab56c91a38f8c54bf6a55ffe83e284f8c89d1d80ba559689c97bd7eb1

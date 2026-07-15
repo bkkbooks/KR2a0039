@@ -26,6 +26,7 @@ markers:
   - {type: indent, offset: 34, content: 　, id: KR2a0039_ZHSJ_183-bkkind12}
   - {type: indent, offset: 35, content: 　, id: KR2a0039_ZHSJ_183-bkkind13}
   - {type: indent, offset: 36, content: 　, id: KR2a0039_ZHSJ_183-bkkind14}
+  - {type: substitution, offset: 36, original: 毓, replacement: 育, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20161}}
   - {type: indent, offset: 37, content: 　, id: KR2a0039_ZHSJ_183-bkkind15}
   - {type: indent, offset: 38, content: 　, id: KR2a0039_ZHSJ_183-bkkind16}
   - {type: indent, offset: 39, content: 　, id: KR2a0039_ZHSJ_183-bkkind17}
@@ -263,4 +264,4 @@ markers:
   - {type: punctuation, offset: 97, content: ．, id: KR2a0039_ZHSJ_183-bkkpn8}
   - {type: xml-element, offset: 97, content: '', id: KR2a0039_ZHSJ_183-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:4117790587d197558c4a6dccfa128d88ce09df75a59264a95f620789dcf8eaf5
+hash: sha256:4a1ff70e3d463a4daf93a56c158d8190e0f8ba037cb8ad297680653538ad0722

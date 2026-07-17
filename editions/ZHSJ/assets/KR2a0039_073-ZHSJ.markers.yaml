@@ -5574,6 +5574,7 @@ markers:
   - {type: punctuation, offset: 12088, content: ．, id: KR2a0039_ZHSJ_073-bkkpn2998}
   - {type: 'tls:seg', offset: 12088, content: '', id: KR2a0039_ZHSJ_073-d73p13s111}
   - {type: punctuation, offset: 12088, content: ), id: KR2a0039_ZHSJ_073-bkkpn2999}
+  - {type: 'voice:problem', offset: 12088, length: 0, id: KR2a0039_ZHSJ_073-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 12088 with no matching '('}
   - {type: punctuation, offset: 12090, content: (, id: KR2a0039_ZHSJ_073-bkkpn3000}
   - {type: punctuation, offset: 12091, content: ．, id: KR2a0039_ZHSJ_073-bkkpn3001}
   - {type: 'tls:seg', offset: 12091, content: '', id: KR2a0039_ZHSJ_073-d73p13s112}
@@ -7520,4 +7521,4 @@ markers:
   - {type: punctuation, offset: 16490, content: ), id: KR2a0039_ZHSJ_073-bkkpn4040}
   - {type: xml-element, offset: 16490, content: '', id: KR2a0039_ZHSJ_073-bkkxmlele34, name: p, role: close}
   back: []
-hash: sha256:731eedb03dd9b96f626faf2271af70843da664489fc15815f2da93868f29e595
+hash: sha256:d45f23a9ea8b8e9d5af5fcb50e1a2970e62b07354548d7f403c9b0526f8d7837

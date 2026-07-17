@@ -267,6 +267,7 @@ markers:
   - {type: 'tls:seg', offset: 645, content: '', id: KR2a0039_ZHSJ_134-d134p7s38}
   - {type: line-break, offset: 645, content: '', id: ZHSJ__dup57277, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 645, content: (, id: KR2a0039_ZHSJ_134-bkkpn133}
+  - {type: voice, offset: 645, length: 28, name: note, id: n1}
   - {type: punctuation, offset: 651, content: ，, id: KR2a0039_ZHSJ_134-bkkpn134}
   - {type: 'tls:seg', offset: 651, content: '', id: KR2a0039_ZHSJ_134-d134p7s39}
   - {type: punctuation, offset: 657, content: ，, id: KR2a0039_ZHSJ_134-bkkpn135}
@@ -970,6 +971,7 @@ markers:
   - {type: punctuation, offset: 2466, content: ．, id: KR2a0039_ZHSJ_134-bkkpn412}
   - {type: 'tls:seg', offset: 2466, content: '', id: KR2a0039_ZHSJ_134-d134p49s2}
   - {type: punctuation, offset: 2466, content: (, id: KR2a0039_ZHSJ_134-bkkpn413}
+  - {type: voice, offset: 2466, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 2473, content: ．, id: KR2a0039_ZHSJ_134-bkkpn414}
   - {type: 'tls:seg', offset: 2473, content: '', id: KR2a0039_ZHSJ_134-d134p49s3}
   - {type: punctuation, offset: 2473, content: ), id: KR2a0039_ZHSJ_134-bkkpn415}
@@ -1036,6 +1038,7 @@ markers:
   - {type: punctuation, offset: 2628, content: ．, id: KR2a0039_ZHSJ_134-bkkpn440}
   - {type: 'tls:seg', offset: 2628, content: '', id: KR2a0039_ZHSJ_134-d134p53s13}
   - {type: punctuation, offset: 2628, content: (, id: KR2a0039_ZHSJ_134-bkkpn441}
+  - {type: voice, offset: 2628, length: 12, name: note, id: n3}
   - {type: punctuation, offset: 2631, content: ，, id: KR2a0039_ZHSJ_134-bkkpn442}
   - {type: 'tls:seg', offset: 2631, content: '', id: KR2a0039_ZHSJ_134-d134p53s14}
   - {type: punctuation, offset: 2640, content: ．, id: KR2a0039_ZHSJ_134-bkkpn443}
@@ -2293,4 +2296,4 @@ markers:
   - {type: line-break, offset: 5497, content: '', id: ZHSJ__dup57481, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: xml-element, offset: 5497, content: '', id: KR2a0039_ZHSJ_134-bkkxmlele220, name: p, role: close}
   back: []
-hash: sha256:6357cedb98c570b14c21c8e4821f9d55fe4ba0445cf037d379a83a9c7a81cd6d
+hash: sha256:4b529091915d04c3217eff663eb4df935c748a04518e1ba24876bc02cc47f5d2

@@ -29,6 +29,7 @@ markers:
   - {type: indent, offset: 29, content: 　, id: KR2a0039_ZHSJ_163-bkkind1}
   - {type: indent, offset: 29, content: 　, id: KR2a0039_ZHSJ_163-bkkind2}
   - {type: indent, offset: 29, content: 　, id: KR2a0039_ZHSJ_163-bkkind3}
+  - {type: 'voice:problem', offset: 29, length: 7, id: KR2a0039_bkk_163-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 29, got ''('' at offset 36'}
   - {type: page-break, offset: 31, content: '', id: KR2a0039_ZHSJ_163-5079a}
   - {type: line-break, offset: 31, content: '', id: ZHSJ__dup67746, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: indent, offset: 34, content: 　, id: KR2a0039_ZHSJ_163-bkkind4}
@@ -92,4 +93,4 @@ markers:
   - {type: line-break, offset: 81, content: '', id: ZHSJ__dup67758, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: xml-element, offset: 81, content: '', id: KR2a0039_ZHSJ_163-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:fcad9228496aef6c7a6c1d4fdd5e29ecb8bdadc0eabb5e51a1c85018915013dc
+hash: sha256:d865115aba0b7425e932e6cd80fd5d647668f62befd396472fff11065359e970
